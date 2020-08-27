@@ -1,0 +1,171 @@
+#frame {
+     width: 1068px;
+    height: 658px;
+    border: 1px solid black;
+    margin: 50px 50px 50px 50px;
+   
+    
+}
+nav{
+    width: 200px;
+    height: 650px;
+    float: left;
+}
+#account-div {
+    background-color: darkblue;
+    width: 130px;
+    height: 130px;
+    float: left;
+    border: 1px solid black;
+  
+
+}
+.account-pic{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin: 35px 35px -10px 35px;
+    background-image: url(jiideeh3.jpg);
+    background-size: 50px;
+
+}
+.admin {
+    font-family: sans-serif;
+    font-size: 10px;
+    color: white;
+    margin-left: 30px;
+}
+a{
+    margin: 175px 0px 0px -100px;
+    float: left;
+    color: black;
+    font-family: sans-serif;
+}
+.menu {
+    float: right;
+    color: black;
+    font-family: sans-serif;
+    font-size: 10px;
+    margin-top: 2px;
+    margin-left: 10px;
+}
+.more{
+    margin-top:20px;
+    margin-left: 0px;
+    
+}
+#border{
+    width: 913px;
+    height: 608px;
+    border: 1px solid black;
+    margin: 3px 0px 0px 150px;
+}
+#list{
+    background-color: azure;
+    width: 870px;
+    height: 500px;
+    margin: 60px 50px 10px 10px;
+    border: 1px solid transparent;
+    padding: 10px 10px 10px 20px;
+
+}
+
+.header {
+font-family: sans-serif;
+font-size: 20px;
+color: black;
+margin-top: 20px;
+margin-left: -370px;
+font-weight: lighter;
+float: left;
+
+}
+input{
+    width:150px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+button{
+    float: right;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    border-radius: 10%;
+    margin-top: 20px;
+}
+tr{
+    margin-top: -280px;
+}
+
+th{
+    font-size: 12px;
+    font-family: sans-serif;
+    color: grey;
+    background-color: white;
+    padding: 5px 20px 5px 0px;
+ margin-bottom: 10px;
+ 
+
+ margin-left: 0px;
+
+ 
+}
+td{
+    font-size: 12px;
+    font-family: sans-serif;
+    color: black;
+    
+    background-color: white;
+    padding: 5px 20px 5px 20px;
+    margin-bottom: 10px;
+   
+    
+ 
+}
+d{
+    color: darkblue;
+}
+.botton2{
+    background-color: darkblue;
+    font-family: sans-serif;
+    font-size: 10px;
+    width: 70px;
+    color: white;
+    float: left;
+    margin-top: 30px;
+    margin-left: -49px;
+}
+.sign-out{
+    border: 1px solid darkblue;
+    color: darkblue;
+    font-family: sans-serif;
+    font-size: 10px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 5px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+}
+
+.edit-profile{
+    font-size: 10px;
+    float: right;
+    color: darkblue;
+    font-family: sans-serif;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+.employee-button{
+float: left;
+margin-top: -120px;
+margin-left: -170px;
+}
+table{
+    margin-top: -100px;
+    margin-bottom: 200px;
+    float: right;
+    margin-right: 180px;
+}
